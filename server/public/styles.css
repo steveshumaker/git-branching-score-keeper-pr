@@ -17,10 +17,10 @@ header {
   float: left;
 }
 
-.team1 {
-  background-color: gray;
+.team-tomato {
+  background-color: red;
 }
 
-.team2 {
-  background-color: gray;
+.team-plum {
+  background-color: purple;
 }
